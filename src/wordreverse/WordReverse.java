@@ -16,11 +16,11 @@ public class WordReverse {
 
    
     public static void main(String[] args) {
-        String name;
-        Scanner input=new Scanner(System.in);
-        System.out.println("enter a string: ");
-        name=input.nextLine();
-        
+        String name="Megha";
+//        Scanner input=new Scanner(System.in);
+//        System.out.println("enter a string: ");
+//        name=input.nextLine();
+//        
         char[] revName=name.toCharArray();
         
         for(int i= revName.length-1; i>=0;i--)
