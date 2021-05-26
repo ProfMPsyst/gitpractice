@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Megha Patel,2021
+ * @author Megha Patel, May 26, 2021
  */
 public class WordReverse {
 
